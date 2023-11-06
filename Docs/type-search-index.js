@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"classes","l":"AccessibilityResults"},{"p":"classes","l":"AccessibilityTest"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"driver","l":"Main"}];updateSearchResults();
