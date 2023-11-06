@@ -1,0 +1,5 @@
+Analytics for: Alice’s Adventures in Wonderland.txt
+----------------------------------------
+Words Count: 31185
+Letter Count: 160255
+Line Count: 3758
